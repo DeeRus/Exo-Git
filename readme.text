@@ -8,3 +8,6 @@ Mais vous n'avez pas besoin de connaître Bootstrap pour ce tout petit exercice.
 il y a dans le dossier, outre ce read-me, un fichier modele.html et son fichier modele.css associé.
 
 la structure de la page proposée est simple : un header, un corps de texte encadré par deux bandeaux et un footer. elle peut donc servir basiquement à de nombreux sites.
+
+Elle est vide, puisque c'est un modèle. nous allons donc la remplir.
+ les différents blocs sont repérés, pour l'instant par des bordures de couleur. Nous les supprimerons par la suite.
