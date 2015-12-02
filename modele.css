@@ -15,6 +15,11 @@ header
 	border:1px solid green;
 	min-height:60px;
 }
+header h1
+{
+	text-align:center;
+}
+
 body
 {
 	margin:0px;
