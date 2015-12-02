@@ -1,0 +1,10 @@
+﻿Bonjour,
+
+nous allons créer une page web à partir d'une structure vide.
+
+Cette structure fait appel à Bootstrap. voir le cours d'OpenClassrooms sur "Prendre en main Bootstrap". 
+Mais vous n'avez pas besoin de connaître Bootstrap pour ce tout petit exercice.
+
+il y a dans le dossier, outre ce read-me, un fichier modele.html et son fichier modele.css associé.
+
+la structure de la page proposée est simple : un header, un corps de texte encadré par deux bandeaux et un footer. elle peut donc servir basiquement à de nombreux sites.
